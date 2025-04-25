@@ -1,0 +1,69 @@
+
+⦁ ⦁ ⦁ 
+⦁ ⦁ ⦁ 
+⦁ ⦁ ⦁ 
+
+Enter coordinates separated by a space. The first number is the row, and the second is the column. 
+>>1 1
+
+X ⦁ ⦁ 
+⦁ ⦁ ⦁ 
+⦁ ⦁ ⦁ 
+
+The AI is playing, please wait... 
+
+X ⦁ ⦁ 
+⦁ O ⦁ 
+⦁ ⦁ ⦁ 
+
+Enter coordinates separated by a space. The first number is the row, and the second is the column. 
+>>2 2
+Error: entered move not legal.
+
+Enter coordinates separated by a space. The first number is the row, and the second is the column. 
+>>3 3
+
+X ⦁ ⦁ 
+⦁ O ⦁ 
+⦁ ⦁ X 
+
+The AI is playing, please wait... 
+
+X O ⦁ 
+⦁ O ⦁ 
+⦁ ⦁ X 
+
+Enter coordinates separated by a space. The first number is the row, and the second is the column. 
+>>3 2
+
+X O ⦁ 
+⦁ O ⦁ 
+⦁ X X 
+
+The AI is playing, please wait... 
+
+X O ⦁ 
+⦁ O ⦁ 
+O X X 
+
+Enter coordinates separated by a space. The first number is the row, and the second is the column. 
+>>1 3
+
+X O X 
+⦁ O ⦁ 
+O X X 
+
+The AI is playing, please wait... 
+
+X O X 
+⦁ O O 
+O X X 
+
+Enter coordinates separated by a space. The first number is the row, and the second is the column. 
+>>2 1
+
+X O X 
+X O O 
+O X X 
+
+Cat Game.
